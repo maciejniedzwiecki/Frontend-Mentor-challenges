@@ -10,7 +10,7 @@ This is my solution to the challenge on [Frontend Mentor](https://www.frontendme
 ✅ See hover and focus states for interactive elements
 
 ## Useful links 💻
-- Live Site URL: soon
+- Live Site URL: [Product preview card component](https://maciejniedzwiecki.github.io/Frontend-Mentor-challenges/product-preview-card-component-main/index.html)
 - Screenshots: [mobile & desktop](https://github.com/maciejniedzwiecki/FM-Product-preview-card-component/tree/master/screenshot)
 - Try the challenge: [Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 

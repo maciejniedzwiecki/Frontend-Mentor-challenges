@@ -6,7 +6,7 @@ There are my solutions to challenges on [Frontend Mentor](https://www.frontendme
 
 ## Useful links 💻
 
-- Live Site URL: soon
+- Live Site URL: [Frontend Mentor challenges](https://maciejniedzwiecki.github.io/Frontend-Mentor-challenges/)
 - My profile on FM: [@maciejniedzwiecki](https://www.frontendmentor.io/profile/maciejniedzwiecki)
 - LinkedIn: [Maciej Niedźwiecki](https://www.linkedin.com/in/maciej-niedzwiecki/)
 
